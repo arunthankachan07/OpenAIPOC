@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-%&ch6%v3%wis)jt=)7=wc0$nwk)0s5(e7d%m8s)w!&$##sf$g-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://openaiapidemo.azurewebsites.net']
 
 
 # Application definition
